@@ -1,5 +1,5 @@
-a = int(input("Enter number a :"))
-b = int(input("Enter number b :"))
+a = int(input("Enter first number  :"))
+b = int(input("Enter second number :"))
 
 Addition = a+b
 Subtraction = a-b
@@ -10,3 +10,4 @@ print("Addition:",Addition)
 print("Subtraction:",Subtraction)
 print("Multiplication:",Multiplication)
 print("Division:",Division)
+
